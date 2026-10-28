@@ -4,3 +4,6 @@ Este repositório reúne alunos que participaram do minicurso de Git e GitHub da
 
 ## Participantes
 
+Giovanna ADS 471
+Júlia ADS 471
+
