@@ -7,4 +7,5 @@ Este repositório reúne alunos que participaram do minicurso de Git e GitHub da
 
 Mateus Fcamidu Sousa
 Ygor Turismo
+Henrique - 2 semestre ADS
 Yuri Oliveira- Ads
